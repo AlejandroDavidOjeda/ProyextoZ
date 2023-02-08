@@ -1,3 +1,13 @@
 .vs/
 bin/
 obj/
+*.csproj.user
+*.playlist
+FrontEnd/.vscode/
+FrontEnd/coverage/degas-mx/sorter.js
+FrontEnd/coverage/
+FrontEnd/dist/
+FrontEnd/node_modules/.bin/apollo-pbjs.ps1
+FrontEnd/node_modules/
+Frontend/.scannerwork/
+**/coverage.opencover.xml
